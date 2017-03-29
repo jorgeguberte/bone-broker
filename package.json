@@ -1,0 +1,19 @@
+{
+  "name": "bone-broker",
+  "version": "1.0.0",
+  "description": "A MQTT broker for the Babylon One project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeguberte/bone-broker.git"
+  },
+  "author": "Jorge Guberte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeguberte/bone-broker/issues"
+  },
+  "homepage": "https://github.com/jorgeguberte/bone-broker#readme"
+}
