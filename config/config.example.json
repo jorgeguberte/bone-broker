@@ -1,0 +1,13 @@
+{
+  "Broker":{
+    "mongo":{
+      "url": "",
+      "collection":"",
+      "port":""
+    },
+    "credit":{
+      "initialLimit":100,
+      "initialDays": 1
+    }
+  }
+}
