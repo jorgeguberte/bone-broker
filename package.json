@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jorgeguberte/bone-broker/issues"
   },
-  "homepage": "https://github.com/jorgeguberte/bone-broker#readme"
+  "homepage": "https://github.com/jorgeguberte/bone-broker#readme",
+  "dependencies": {
+    "config": "^1.25.1",
+    "mosca": "^2.3.0"
+  }
 }
